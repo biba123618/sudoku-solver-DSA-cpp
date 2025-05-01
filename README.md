@@ -37,7 +37,7 @@ Sudoku Solver is a C++ console-based program that efficiently solves any valid S
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/sudoku-solver-dsa-cpp.git
+git clone https://github.com/123618/sudoku-solver-dsa-cpp.git
 cd sudoku-solver-dsa-cpp
 2-Compile the code:
 
